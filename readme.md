@@ -115,7 +115,7 @@ Copy
 Edit
 pip install -r requirements.txt
 👤 Author
-Your Name
+Dipayan Guha
 BCA Graduate | Aspiring Software Developer & Data Analyst
 Feel free to connect!
 
